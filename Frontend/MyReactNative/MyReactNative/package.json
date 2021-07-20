@@ -15,7 +15,7 @@
     "expo-secure-store": "^6.0.0",
     "react": "16.8.3",
     "react-dom": "^16.8.6",
-    "react-native": "^0.59.10",
+    "react-native": "^0.62.3",
     "react-native-cookies": "^3.3.0",
     "react-native-drawer": "^2.5.1",
     "react-native-easy-toast": "^1.2.0",
